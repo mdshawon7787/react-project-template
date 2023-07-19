@@ -12,3 +12,4 @@
 -   react-icons
 -   Eslint
 -   Prettier
+# React_project
